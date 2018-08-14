@@ -51,7 +51,7 @@ $ kubectl get wf hello-world-xxx
 $ kubectl get po --selector=workflows.argoproj.io/workflow=hello-world-xxx --show-all
 $ kubectl logs hello-world-yyy -c main
 </code></pre>
-<p>Additional examples are availabe <a href="https://github.com/argoproj/argo/blob/master/examples/README.html">here</a>.</p>
+<p>Additional examples are availabe <a href="https://github.com/argoproj/argo/blob/master/examples/README.md">here</a>.</p>
 <h2>5. Install an Artifact Repository</h2>
 <p>Argo supports S3 (AWS, GCS, Minio) as well as Artifactory as artifact repositories. This tutorial uses Minio for the sake of portability. Instructions on how to configure other artifact repositories are <a href="https://github.com/argoproj/argo/blob/master/ARTIFACT_REPO.html">here</a>.</p>
 <pre><code>$ brew install kubernetes-helm # mac
