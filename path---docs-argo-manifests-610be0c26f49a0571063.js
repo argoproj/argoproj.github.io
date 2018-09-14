@@ -1,0 +1,2 @@
+webpackJsonp([50484580592117],{550:function(a,e){a.exports={pathContext:{docHtml:"<h1>Argo Install Manifests</h1>\n<p>Two\n| File | Description |\n|------|-------------|\n| install.yaml | Standard argo cluster-wide installation. Controller operates on all namespaces |\n| namespace-install.yaml | Installation of argo which operates on a single namespace. Controller does not require to be run with clusterrole |</p>",docPath:"argo/manifests/readme",proj:"argo",searchIndex:null}}}});
+//# sourceMappingURL=path---docs-argo-manifests-610be0c26f49a0571063.js.map

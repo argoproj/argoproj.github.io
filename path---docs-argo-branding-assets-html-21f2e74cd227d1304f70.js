@@ -1,0 +1,2 @@
+webpackJsonp([0xa235941031e5],{500:function(o,g){o.exports={pathContext:{docHtml:'<h1>Argo Branding Assets</h1>\n<h2>Logo</h2>\n<p><img src="https://github.com/argoproj/argo/blob/master/argo-logo600.png" alt="Argo Logo" title="Argo Logo"></p>',docPath:"argo/branding assets",proj:"argo",searchIndex:null}}}});
+//# sourceMappingURL=path---docs-argo-branding-assets-html-21f2e74cd227d1304f70.js.map
