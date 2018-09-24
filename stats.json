@@ -4,6 +4,10 @@
       "path---docs-argo-contributing-html-d6802e070598e0236c1d.js",
       "path---docs-argo-contributing-html-d6802e070598e0236c1d.js.map"
     ],
+    "path---docs-argo-cd-manifests-readme-html": [
+      "path---docs-argo-cd-manifests-readme-html-8dee0062a3cab9c9e6ab.js",
+      "path---docs-argo-cd-manifests-readme-html-8dee0062a3cab9c9e6ab.js.map"
+    ],
     "path---argo-ci": [
       "path---argo-ci-8cf0916211c6c9e683ba.js",
       "path---argo-ci-8cf0916211c6c9e683ba.js.map"
@@ -17,12 +21,16 @@
       "path---argo-events-b4921010f8aff6c5d7b1.js.map"
     ],
     "path---docs-argo-cd-docs-application-sources-html": [
-      "path---docs-argo-cd-docs-application-sources-html-9358c24d75549e3c111b.js",
-      "path---docs-argo-cd-docs-application-sources-html-9358c24d75549e3c111b.js.map"
+      "path---docs-argo-cd-docs-application-sources-html-d28eb34bea4576c1d623.js",
+      "path---docs-argo-cd-docs-application-sources-html-d28eb34bea4576c1d623.js.map"
     ],
     "path---docs-argo-events-dependencies-html": [
       "path---docs-argo-events-dependencies-html-15fbc7d90340c371e88e.js",
       "path---docs-argo-events-dependencies-html-15fbc7d90340c371e88e.js.map"
+    ],
+    "path---docs-argo-cd-docs-auto-sync-html": [
+      "path---docs-argo-cd-docs-auto-sync-html-e2669f6d6d2cb68d7677.js",
+      "path---docs-argo-cd-docs-auto-sync-html-e2669f6d6d2cb68d7677.js.map"
     ],
     "path---docs-argo-code-of-conduct-html": [
       "path---docs-argo-code-of-conduct-html-40f3fbe5cece20ac3a36.js",
@@ -33,8 +41,8 @@
       "path---docs-argo-cd-docs-sso-html-8baf7d9d3e520c9910af.js.map"
     ],
     "path---docs-argo-cd-docs-tracking-strategies-html": [
-      "path---docs-argo-cd-docs-tracking-strategies-html-24255659cf0c1e73d29a.js",
-      "path---docs-argo-cd-docs-tracking-strategies-html-24255659cf0c1e73d29a.js.map"
+      "path---docs-argo-cd-docs-tracking-strategies-html-67f8c441fd9ff86523be.js",
+      "path---docs-argo-cd-docs-tracking-strategies-html-67f8c441fd9ff86523be.js.map"
     ],
     "path---docs-argo-ui": [
       "path---docs-argo-ui-1663ac517453e7a60ca6.js",
@@ -45,20 +53,24 @@
       "path---docs-argo-events-544e0f1ab5c92b29d06a.js.map"
     ],
     "path---docs-argo-manifests": [
-      "path---docs-argo-manifests-31c4600453119f9d2239.js",
-      "path---docs-argo-manifests-31c4600453119f9d2239.js.map"
+      "path---docs-argo-manifests-5d6766e0ba082c5a63d8.js",
+      "path---docs-argo-manifests-5d6766e0ba082c5a63d8.js.map"
     ],
     "path---docs-argo-examples": [
       "path---docs-argo-examples-682fb39a380761fa2476.js",
       "path---docs-argo-examples-682fb39a380761fa2476.js.map"
     ],
+    "path---docs-argo-cd-docs-ingress-html": [
+      "path---docs-argo-cd-docs-ingress-html-522e47c75c5a714a8744.js",
+      "path---docs-argo-cd-docs-ingress-html-522e47c75c5a714a8744.js.map"
+    ],
     "path---docs-argo-readme-html": [
-      "path---docs-argo-readme-html-5d385314ccdf37772831.js",
-      "path---docs-argo-readme-html-5d385314ccdf37772831.js.map"
+      "path---docs-argo-readme-html-e3f3d120699774ff667f.js",
+      "path---docs-argo-readme-html-e3f3d120699774ff667f.js.map"
     ],
     "path---argo-cd": [
-      "path---argo-cd-4b53da9372b558cadc16.js",
-      "path---argo-cd-4b53da9372b558cadc16.js.map"
+      "path---argo-cd-6948148691a79360ddcb.js",
+      "path---argo-cd-6948148691a79360ddcb.js.map"
     ],
     "component---src-pages-argo-ci-tsx": [
       "component---src-pages-argo-ci-tsx-6574894c6219e1d746b1.js",
@@ -77,16 +89,16 @@
       "path---docs-argo-events-roadmap-html-85049957b323e470e8da.js.map"
     ],
     "path---docs-argo-cd-docs": [
-      "path---docs-argo-cd-docs-87e5b2232d4d0b05b1c0.js",
-      "path---docs-argo-cd-docs-87e5b2232d4d0b05b1c0.js.map"
+      "path---docs-argo-cd-docs-9861558a15039e2003df.js",
+      "path---docs-argo-cd-docs-9861558a15039e2003df.js.map"
     ],
     "path---docs-argo-events-docs-index-html": [
       "path---docs-argo-events-docs-index-html-47326a8d47bfcc77dbe7.js",
       "path---docs-argo-events-docs-index-html-47326a8d47bfcc77dbe7.js.map"
     ],
     "path---docs-argo": [
-      "path---docs-argo-5d385314ccdf37772831.js",
-      "path---docs-argo-5d385314ccdf37772831.js.map"
+      "path---docs-argo-e3f3d120699774ff667f.js",
+      "path---docs-argo-e3f3d120699774ff667f.js.map"
     ],
     "path---docs-argo-community-readme-html": [
       "path---docs-argo-community-readme-html-ac12be41d8f1f7f177b3.js",
@@ -104,9 +116,13 @@
       "component---src-pages-argo-cd-tsx-39ec3f61912d39fa989d.js",
       "component---src-pages-argo-cd-tsx-39ec3f61912d39fa989d.js.map"
     ],
+    "path---docs-argo-cd-util-helm-testdata-wordpress": [
+      "path---docs-argo-cd-util-helm-testdata-wordpress-933e41ecfc2c0ae73de4.js",
+      "path---docs-argo-cd-util-helm-testdata-wordpress-933e41ecfc2c0ae73de4.js.map"
+    ],
     "path---docs-argo-manifests-readme-html": [
-      "path---docs-argo-manifests-readme-html-31c4600453119f9d2239.js",
-      "path---docs-argo-manifests-readme-html-31c4600453119f9d2239.js.map"
+      "path---docs-argo-manifests-readme-html-5d6766e0ba082c5a63d8.js",
+      "path---docs-argo-manifests-readme-html-5d6766e0ba082c5a63d8.js.map"
     ],
     "path---docs-argo-docs-variables-html": [
       "path---docs-argo-docs-variables-html-c6523edb44ccaed258b2.js",
@@ -124,9 +140,17 @@
       "path---docs-argo-cd-util-helm-testdata-redis-1e82b6af5a1c533f9e35.js",
       "path---docs-argo-cd-util-helm-testdata-redis-1e82b6af5a1c533f9e35.js.map"
     ],
+    "path---docs-argo-cd-docs-faq-html": [
+      "path---docs-argo-cd-docs-faq-html-f2f3275edaaeee50e4cc.js",
+      "path---docs-argo-cd-docs-faq-html-f2f3275edaaeee50e4cc.js.map"
+    ],
     "path---docs-argo-cd-docs-rbac-html": [
-      "path---docs-argo-cd-docs-rbac-html-0b0c2f7b83139d6d0870.js",
-      "path---docs-argo-cd-docs-rbac-html-0b0c2f7b83139d6d0870.js.map"
+      "path---docs-argo-cd-docs-rbac-html-1e719af2a3abc9a560e1.js",
+      "path---docs-argo-cd-docs-rbac-html-1e719af2a3abc9a560e1.js.map"
+    ],
+    "path---docs-argo-cd-docs-projects-html": [
+      "path---docs-argo-cd-docs-projects-html-42cfc2eb7c5c2de129a9.js",
+      "path---docs-argo-cd-docs-projects-html-42cfc2eb7c5c2de129a9.js.map"
     ],
     "path---docs-argo-cd-docs-webhook-html": [
       "path---docs-argo-cd-docs-webhook-html-6eaf0ac9bff22e234093.js",
@@ -149,8 +173,8 @@
       "path---index-a0e39f21c11f6a62c5ab.js.map"
     ],
     "path---argo": [
-      "path---argo-30d0b8e8c7e39b27fb5e.js",
-      "path---argo-30d0b8e8c7e39b27fb5e.js.map"
+      "path---argo-8d22258c247e303fe677.js",
+      "path---argo-8d22258c247e303fe677.js.map"
     ],
     "path---docs-argo-events-docs-artifact-guide-html": [
       "path---docs-argo-events-docs-artifact-guide-html-4ff33dc59892f58da969.js",
@@ -165,12 +189,16 @@
       "path---docs-argo-cd-util-helm-testdata-redis-readme-html-1e82b6af5a1c533f9e35.js.map"
     ],
     "commons": [
-      "commons-952b185a3038b16bc8c0.js",
-      "commons-952b185a3038b16bc8c0.js.map"
+      "commons-e71a14da6764428b955f.js",
+      "commons-e71a14da6764428b955f.js.map"
+    ],
+    "path---docs-argo-cd-util-helm-testdata-wordpress-readme-html": [
+      "path---docs-argo-cd-util-helm-testdata-wordpress-readme-html-933e41ecfc2c0ae73de4.js",
+      "path---docs-argo-cd-util-helm-testdata-wordpress-readme-html-933e41ecfc2c0ae73de4.js.map"
     ],
     "path---docs-argo-cd-docs-internal-releasing-html": [
-      "path---docs-argo-cd-docs-internal-releasing-html-a49d5b6d645f80220ffc.js",
-      "path---docs-argo-cd-docs-internal-releasing-html-a49d5b6d645f80220ffc.js.map"
+      "path---docs-argo-cd-docs-internal-releasing-html-f09c95275732ad54f906.js",
+      "path---docs-argo-cd-docs-internal-releasing-html-f09c95275732ad54f906.js.map"
     ],
     "path---docs-argo-branding-assets-html": [
       "path---docs-argo-branding-assets-html-3ae02524b1acebd18582.js",
@@ -188,6 +216,10 @@
       "path---docs-argo-roadmap-html-863915c1a8b32d8f0b21.js",
       "path---docs-argo-roadmap-html-863915c1a8b32d8f0b21.js.map"
     ],
+    "path---docs-argo-cd-manifests": [
+      "path---docs-argo-cd-manifests-8dee0062a3cab9c9e6ab.js",
+      "path---docs-argo-cd-manifests-8dee0062a3cab9c9e6ab.js.map"
+    ],
     "path---docs-argo-events-signals-stream": [
       "path---docs-argo-events-signals-stream-6f35b32efb868ff0639d.js",
       "path---docs-argo-events-signals-stream-6f35b32efb868ff0639d.js.map"
@@ -197,16 +229,16 @@
       "component---src-components-docs-page-tsx-e875747c98e9a164e642.js.map"
     ],
     "path---docs-argo-cd-readme-html": [
-      "path---docs-argo-cd-readme-html-26ccfcfce12020bf6725.js",
-      "path---docs-argo-cd-readme-html-26ccfcfce12020bf6725.js.map"
+      "path---docs-argo-cd-readme-html-975d620e941610c2a052.js",
+      "path---docs-argo-cd-readme-html-975d620e941610c2a052.js.map"
     ],
     "path---docs-argo-demo-html": [
-      "path---docs-argo-demo-html-8ac517b8a034ae6376b4.js",
-      "path---docs-argo-demo-html-8ac517b8a034ae6376b4.js.map"
+      "path---docs-argo-demo-html-c0c246fd7efddd3e1e98.js",
+      "path---docs-argo-demo-html-c0c246fd7efddd3e1e98.js.map"
     ],
     "path---docs-argo-cd-docs-getting-started-html": [
-      "path---docs-argo-cd-docs-getting-started-html-d158dc660926571d3949.js",
-      "path---docs-argo-cd-docs-getting-started-html-d158dc660926571d3949.js.map"
+      "path---docs-argo-cd-docs-getting-started-html-193b043951c10cbf077a.js",
+      "path---docs-argo-cd-docs-getting-started-html-193b043951c10cbf077a.js.map"
     ],
     "path---docs-argo-events-docs-signal-guide-html": [
       "path---docs-argo-events-docs-signal-guide-html-cff1f101593144fad13c.js",
@@ -229,12 +261,12 @@
       "path---docs-argo-ci-readme-html-9880407c5fd1c2b25a99.js.map"
     ],
     "path---docs-argo-cd-docs-readme-html": [
-      "path---docs-argo-cd-docs-readme-html-87e5b2232d4d0b05b1c0.js",
-      "path---docs-argo-cd-docs-readme-html-87e5b2232d4d0b05b1c0.js.map"
+      "path---docs-argo-cd-docs-readme-html-9861558a15039e2003df.js",
+      "path---docs-argo-cd-docs-readme-html-9861558a15039e2003df.js.map"
     ],
     "app": [
-      "app-0df425e60ae6444df9cc.js",
-      "app-0df425e60ae6444df9cc.js.map"
+      "app-41d0d12fa009c71fed10.js",
+      "app-41d0d12fa009c71fed10.js.map"
     ],
     "path---docs-argo-ci-roadmap-html": [
       "path---docs-argo-ci-roadmap-html-c4fdac0dc84051375fc8.js",
@@ -277,8 +309,8 @@
       "path---docs-argo-examples-readme-html-682fb39a380761fa2476.js.map"
     ],
     "path---docs-argo-cd": [
-      "path---docs-argo-cd-26ccfcfce12020bf6725.js",
-      "path---docs-argo-cd-26ccfcfce12020bf6725.js.map"
+      "path---docs-argo-cd-975d620e941610c2a052.js",
+      "path---docs-argo-cd-975d620e941610c2a052.js.map"
     ],
     "path---docs-argo-cd-docs-health-html": [
       "path---docs-argo-cd-docs-health-html-ea27b1c458936d539951.js",
@@ -289,8 +321,8 @@
       "path---docs-argo-events-docs-quickstart-html-0011b9eb63ddad217cc5.js.map"
     ],
     "path---docs-argo-cd-changelog-html": [
-      "path---docs-argo-cd-changelog-html-ac22e73e76e337eb32bb.js",
-      "path---docs-argo-cd-changelog-html-ac22e73e76e337eb32bb.js.map"
+      "path---docs-argo-cd-changelog-html-3196bc064fe420f2048f.js",
+      "path---docs-argo-cd-changelog-html-3196bc064fe420f2048f.js.map"
     ]
   }
 }
