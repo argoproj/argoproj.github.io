@@ -1,2 +1,0 @@
-webpackJsonp([0xc956abe28b23],{217:function(e,t,n){"use strict";Object.defineProperty(t,"__esModule",{value:!0});var l=n(3),r=n(76),a=n(39);t.default=function(){return l.createElement(a.Main,null,l.createElement(r.Helmet,null,l.createElement("title",null,"Get stuff done with Kubernetes | Argo"),l.createElement("meta",{name:"description",content:"Kubernetes native workflows, deployments, CI, events"})),l.createElement(a.Home,null))}}});
-//# sourceMappingURL=component---src-pages-index-tsx-22be3cd9706aae85a02c.js.map
