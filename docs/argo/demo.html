@@ -16,11 +16,13 @@
 <pre><code>$ brew install argoproj/tap/argo
 </code></pre>
 <p>On Linux:</p>
-<pre><code>$ curl -sSL -o /usr/local/bin/argo https://github.com/argoproj/argo/releases/download/v2.1.0/argo-linux-amd64
+<pre><code>$ curl -sSL -o /usr/local/bin/argo https://github.com/argoproj/argo/releases/download/v2.2.1/argo-linux-amd64
 $ chmod +x /usr/local/bin/argo
 </code></pre>
 <h2>2. Install the Controller and UI</h2>
-<pre><code>$ argo install
+<pre><code>
+$ kubectl create ns argo
+$ kubectl apply -n argo -f https://raw.githubusercontent.com/argoproj/argo/v2.2.1/manifests/install.yaml
 </code></pre>
 <p>NOTE:</p>
 <ul>
@@ -29,7 +31,7 @@ $ chmod +x /usr/local/bin/argo
 <pre><code>$ kubectl create clusterrolebinding YOURNAME-cluster-admin-binding --clusterrole=cluster-admin --user=YOUREMAIL@gmail.com
 </code></pre>
 </li>
-<li>The subsequent instructions below assume the installation of argo into the <code>kube-system</code> namespace (the default behavior). A different namespace can be chosen using the <code>argo install --namespace &#x3C;name></code> flag, in which case you should substitute <code>kube-system</code> with your chosen namespace in the examples below.</li>
+<li>The subsequent instructions below assume the installation of argo into the <code>kube-system</code> namespace (the default behavior). A different namespace can be chosen using the <code>kubectl apply --namespace &#x3C;name></code> flag, in which case you should substitute <code>kube-system</code> with your chosen namespace in the examples below.</li>
 </ul>
 <h2>3. Configure the service account to run workflows (required for RBAC clusters)</h2>
 <p>For clusters with RBAC enabled, the 'default' service account is too limited to do any kind of meaningful work. Run the following command to grant admin privileges to the 'default' service account in the namespace 'default':</p>
@@ -75,7 +77,7 @@ which you will use to login to the UI:</p>
 <p>Edit the workflow-controller config map to reference the service name (argo-artifacts-minio) and secret (argo-artifacts-minio) created by the helm install:</p>
 <pre><code>$ kubectl edit configmap workflow-controller-configmap -n kube-system
 ...
-    executorImage: argoproj/argoexec:v2.1.0
+    executorImage: argoproj/argoexec:v2.2.1
     artifactRepository:
       s3:
         bucket: my-bucket
