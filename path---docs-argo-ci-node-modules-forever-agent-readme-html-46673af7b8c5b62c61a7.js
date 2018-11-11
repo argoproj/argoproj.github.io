@@ -1,0 +1,2 @@
+webpackJsonp([0xdf4fcda92919],{2345:function(e,o){e.exports={pathContext:{docHtml:"<h1>forever-agent</h1>\n<p>HTTP Agent that keeps socket connections alive between keep-alive requests. Formerly part of mikeal/request, now a standalone module.</p>",docPath:"argo-ci/node_modules/forever-agent/readme",proj:"argo-ci"}}}});
+//# sourceMappingURL=path---docs-argo-ci-node-modules-forever-agent-readme-html-46673af7b8c5b62c61a7.js.map

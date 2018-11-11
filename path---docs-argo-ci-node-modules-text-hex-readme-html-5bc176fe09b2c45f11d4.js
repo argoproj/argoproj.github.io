@@ -1,0 +1,2 @@
+webpackJsonp([0xe92eefb692a0],{3235:function(e,o){e.exports={pathContext:{docHtml:"<h1>text-hex</h1>\n<p>Transforms a given piece of text to a hex color.</p>\n<h2>Install</h2>\n<pre><code>npm install text-hex\n</code></pre>\n<h2>Usage</h2>\n<pre><code class=\"language-js\">var hex = require('text-hex');\nconsole.log(hex('foo'));\n</code></pre>\n<h2>License</h2>\n<p>MIT</p>",docPath:"argo-ci/node_modules/text-hex/readme",proj:"argo-ci"}}}});
+//# sourceMappingURL=path---docs-argo-ci-node-modules-text-hex-readme-html-5bc176fe09b2c45f11d4.js.map

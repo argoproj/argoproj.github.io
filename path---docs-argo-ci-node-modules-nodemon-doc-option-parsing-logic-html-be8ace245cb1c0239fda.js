@@ -1,0 +1,2 @@
+webpackJsonp([0xcdb63eba7ebc],{2967:function(o,i){o.exports={pathContext:{docHtml:"<h1>Option parsing logic</h1>\n<ol>\n<li>Read all CLI arguments</li>\n<li>Load local config</li>\n<li>Load global config</li>\n<li>Try backup: package.main</li>\n<li>Try backup: package.start</li>\n<li>Try index.js</li>\n</ol>",docPath:"argo-ci/node_modules/nodemon/doc/option-parsing-logic",proj:"argo-ci"}}}});
+//# sourceMappingURL=path---docs-argo-ci-node-modules-nodemon-doc-option-parsing-logic-html-be8ace245cb1c0239fda.js.map

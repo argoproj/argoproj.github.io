@@ -1,0 +1,2 @@
+webpackJsonp([7708539054641],{3325:function(e,n){e.exports={pathContext:{docHtml:'<h1>Typed Yn</h1>\n<p><a href="https://greenkeeper.io/"><img src="https://badges.greenkeeper.io/types/npm-yn.svg" alt="Greenkeeper badge"></a></p>\n<p>The type definition for <a href="https://github.com/sindresorhus/yn"><code>yn</code></a>.</p>\n<h2>License</h2>\n<p>MIT</p>',docPath:"argo-ci/node_modules/@types/yn/readme",proj:"argo-ci"}}}});
+//# sourceMappingURL=path---docs-argo-ci-node-modules-types-yn-154b3e5e86c7726c0163.js.map

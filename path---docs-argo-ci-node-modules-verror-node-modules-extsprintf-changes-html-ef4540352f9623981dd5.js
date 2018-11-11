@@ -1,0 +1,2 @@
+webpackJsonp([75894934167413],{3366:function(e,o){e.exports={pathContext:{docHtml:"<h1>Changelog</h1>\n<h2>Not yet released</h2>\n<p>None yet.</p>\n<h2>v1.4.0</h2>\n<ul>\n<li>\n<h1>13 could provide better error messages for programmer errors</h1>\n</li>\n<li>\n<h1>14 bring extsprintf into the modern world</h1>\n</li>\n</ul>",docPath:"argo-ci/node_modules/verror/node_modules/extsprintf/changes",proj:"argo-ci"}}}});
+//# sourceMappingURL=path---docs-argo-ci-node-modules-verror-node-modules-extsprintf-changes-html-ef4540352f9623981dd5.js.map
