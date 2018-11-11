@@ -1,2 +1,0 @@
-webpackJsonp([0xf4ce609b42a7],{3350:function(o,e){o.exports={pathContext:{docHtml:"<h1>1.0.0 / 2017-05-30</h1>\n<ul>\n<li>Initial release.</li>\n</ul>",docPath:"argo-ci/node_modules/util.promisify/changelog",proj:"argo-ci"}}}});
-//# sourceMappingURL=path---docs-argo-ci-node-modules-util-promisify-changelog-html-57988aec49e3d6fc9bfe.js.map

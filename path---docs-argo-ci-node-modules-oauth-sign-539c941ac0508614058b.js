@@ -1,2 +1,0 @@
-webpackJsonp([21251878562962],{2986:function(o,n){o.exports={pathContext:{docHtml:"<h1>oauth-sign</h1>\n<p>OAuth 1 signing. Formerly a vendor lib in mikeal/request, now a standalone module. </p>",docPath:"argo-ci/node_modules/oauth-sign/readme",proj:"argo-ci"}}}});
-//# sourceMappingURL=path---docs-argo-ci-node-modules-oauth-sign-539c941ac0508614058b.js.map

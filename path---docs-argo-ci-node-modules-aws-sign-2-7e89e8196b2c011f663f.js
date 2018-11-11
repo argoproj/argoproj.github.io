@@ -1,2 +1,0 @@
-webpackJsonp([0xb91aec4721d0],{2075:function(n,o){n.exports={pathContext:{docHtml:"<h1>aws-sign</h1>\n<p>AWS signing. Originally pulled from LearnBoost/knox, maintained as vendor in request, now a standalone module.</p>",docPath:"argo-ci/node_modules/aws-sign2/readme",proj:"argo-ci"}}}});
-//# sourceMappingURL=path---docs-argo-ci-node-modules-aws-sign-2-7e89e8196b2c011f663f.js.map

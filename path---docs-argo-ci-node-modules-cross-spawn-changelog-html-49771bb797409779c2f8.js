@@ -1,2 +1,0 @@
-webpackJsonp([0xd1205356d870],{2212:function(o,e){o.exports={pathContext:{docHtml:'<h2>5.0.0 - 2016-10-30</h2>\n<ul>\n<li>Add support for <code>options.shell</code></li>\n<li>Improve parsing of shebangs by using <a href="https://github.com/kevva/shebang-command"><code>shebang-command</code></a> module</li>\n<li>Refactor some code to make it more clear</li>\n<li>Update README caveats</li>\n</ul>',docPath:"argo-ci/node_modules/cross-spawn/changelog",proj:"argo-ci"}}}});
-//# sourceMappingURL=path---docs-argo-ci-node-modules-cross-spawn-changelog-html-49771bb797409779c2f8.js.map

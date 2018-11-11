@@ -1,2 +1,0 @@
-webpackJsonp([0xd0ea3e6c1739],{3338:function(o,e){o.exports={pathContext:{docHtml:"<h1>1.0.0 / 2015-06-14</h1>\n<ul>\n<li>Initial release</li>\n</ul>",docPath:"argo-ci/node_modules/unpipe/history",proj:"argo-ci"}}}});
-//# sourceMappingURL=path---docs-argo-ci-node-modules-unpipe-history-html-9137148f41d8c4f21cae.js.map

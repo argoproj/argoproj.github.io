@@ -1,2 +1,0 @@
-webpackJsonp([0xddac6f122692],{2494:function(o,e){o.exports={pathContext:{docHtml:"<ul>\n<li>Michele Bini (original Curve25519 core code: curve25519.js)</li>\n<li>Ron Garret (original Ed25519 code: fast-djbec.js)</li>\n<li>Guy Kloss (package refactoring, unit testing)</li>\n</ul>",docPath:"argo-ci/node_modules/fsevents/node_modules/jodid25519/authors",proj:"argo-ci"}}}});
-//# sourceMappingURL=path---docs-argo-ci-node-modules-fsevents-node-modules-jodid-25519-authors-html-6ec5de1e3f679b0d2d55.js.map

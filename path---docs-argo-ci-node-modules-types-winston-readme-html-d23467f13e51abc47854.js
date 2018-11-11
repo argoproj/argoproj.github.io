@@ -1,2 +1,0 @@
-webpackJsonp([98365378794984],{3322:function(t,n){t.exports={pathContext:{docHtml:'<p>This is a stub types definition for winston (<a href="https://github.com/winstonjs/winston.git">https://github.com/winstonjs/winston.git</a>).</p>\n<p>winston provides its own type definitions, so you don\'t need @types/winston installed!</p>',docPath:"argo-ci/node_modules/@types/winston/readme",proj:"argo-ci"}}}});
-//# sourceMappingURL=path---docs-argo-ci-node-modules-types-winston-readme-html-d23467f13e51abc47854.js.map
