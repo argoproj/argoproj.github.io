@@ -48,7 +48,6 @@
 <url> <loc>https://argoproj.github.io/docs/argo-cd/util/helm/testdata/minio/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/docs/argo-cd/util/helm/testdata/redis/readme.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/docs/argo-cd/util/helm/testdata/redis/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://argoproj.github.io/docs/argo-cd/changelog.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/docs/argo-cd/readme.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/docs/argo-cd/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/docs/argo-cd/contributing.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -62,7 +61,6 @@
 <url> <loc>https://argoproj.github.io/docs/argo-cd/docs/health.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/docs/argo-cd/docs/parameters.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/docs/argo-cd/docs/projects.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://argoproj.github.io/docs/argo-cd/docs/getting_started.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/docs/argo-cd/docs/ingress.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/docs/argo-cd/docs/rbac.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/docs/argo-cd/docs/resource_hooks.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -70,6 +68,8 @@
 <url> <loc>https://argoproj.github.io/docs/argo-cd/docs/sso.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/docs/argo-cd/docs/webhook.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/docs/argo-cd/docs/internal/releasing.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://argoproj.github.io/docs/argo-cd/changelog.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://argoproj.github.io/docs/argo-cd/docs/getting_started.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/argo-cd/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/argo-ci/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/argo-events/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
