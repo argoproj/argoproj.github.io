@@ -1,0 +1,2 @@
+webpackJsonp([91181339705289],{214:function(e,a,t){"use strict";Object.defineProperty(a,"__esModule",{value:!0});var n=t(3),r=t(56);a.default=function(e){var a=e.data;return n.createElement(r.Main,null,n.createElement(r.Project,{proj:"argo",animationType:"connections",markdownHtml:a.allMarkdownRemark.edges[0].node.html,docsLink:"/docs/argo/readme.html"}))},a.query="** extracted graphql fragment **"}});
+//# sourceMappingURL=component---src-pages-argo-tsx-a497c45eec0a77e966d5.js.map
