@@ -1,2 +1,2 @@
-webpackJsonp([0x64be3c8d611c],{659:function(o,t){o.exports={pathContext:{docHtml:'<h1>Argo UI</h1>\n<p>Moved to <a href="https://github.com/argoproj/argo-ui">https://github.com/argoproj/argo-ui</a></p>',docPath:"argo/ui/readme",proj:"argo"}}}});
+webpackJsonp([0x64be3c8d611c],{660:function(o,t){o.exports={pathContext:{docHtml:'<h1>Argo UI</h1>\n<p>Moved to <a href="https://github.com/argoproj/argo-ui">https://github.com/argoproj/argo-ui</a></p>',docPath:"argo/ui/readme",proj:"argo"}}}});
 //# sourceMappingURL=path---docs-argo-ui-readme-html-1663ac517453e7a60ca6.js.map

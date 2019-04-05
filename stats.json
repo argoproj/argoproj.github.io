@@ -97,8 +97,8 @@
       "path---docs-argo-examples-8430a5473599d9aaad09.js.map"
     ],
     "path---projects-argo-cd": [
-      "path---projects-argo-cd-072b0af21f5112d5f418.js",
-      "path---projects-argo-cd-072b0af21f5112d5f418.js.map"
+      "path---projects-argo-cd-cc539548279aac0a76ff.js",
+      "path---projects-argo-cd-cc539548279aac0a76ff.js.map"
     ],
     "path---docs-argo-events-gateways-community-aws-sqs": [
       "path---docs-argo-events-gateways-community-aws-sqs-06efd6edcc31ab331618.js",
@@ -264,6 +264,10 @@
       "path---docs-argo-events-changelog-html-541f98d3dd1f0e37beed.js",
       "path---docs-argo-events-changelog-html-541f98d3dd1f0e37beed.js.map"
     ],
+    "path---docs-projects-argo-cd-html": [
+      "path---docs-projects-argo-cd-html-410da9ef8418dab42cbf.js",
+      "path---docs-projects-argo-cd-html-410da9ef8418dab42cbf.js.map"
+    ],
     "path---docs-argo-events-gateways-community-aws-sqs-readme-html": [
       "path---docs-argo-events-gateways-community-aws-sqs-readme-html-06efd6edcc31ab331618.js",
       "path---docs-argo-events-gateways-community-aws-sqs-readme-html-06efd6edcc31ab331618.js.map"
@@ -421,8 +425,8 @@
       "path---docs-argo-cd-docs-operator-manual-rbac-html-3ac2c14e483bc311cecd.js.map"
     ],
     "app": [
-      "app-ce7a825ec17a40873c95.js",
-      "app-ce7a825ec17a40873c95.js.map"
+      "app-edc09978be8b69a14703.js",
+      "app-edc09978be8b69a14703.js.map"
     ],
     "path---docs-argo-events-gateways-community-gcp-pubsub": [
       "path---docs-argo-events-gateways-community-gcp-pubsub-7cc79dad2666f8a8f4a4.js",
