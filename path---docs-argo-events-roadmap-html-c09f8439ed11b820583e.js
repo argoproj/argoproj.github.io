@@ -1,0 +1,2 @@
+webpackJsonp([76514544987046],{637:function(e,n){e.exports={pathContext:{docHtml:'<h1>Roadmap</h1>\n<h2>Development Phase</h2>\n<ul>\n<li>Add prometheus metrics collection</li>\n<li>E2E testing</li>\n<li>Microsoft Azure Blob Gateway</li>\n<li>Microsoft Teams Gateway</li>\n<li>Document use-cases</li>\n</ul>\n<h2>Idea Phase</h2>\n<ul>\n<li>Add <a href="https://upspin.io/">Upspin</a> as an <code>Artifact</code> file source.</li>\n</ul>',docPath:"argo-events/roadmap",proj:"argo-events"}}}});
+//# sourceMappingURL=path---docs-argo-events-roadmap-html-c09f8439ed11b820583e.js.map
