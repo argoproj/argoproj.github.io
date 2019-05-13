@@ -40,10 +40,6 @@
       "path---docs-argo-cd-docs-operator-manual-health-html-23262357c6aada166de3.js",
       "path---docs-argo-cd-docs-operator-manual-health-html-23262357c6aada166de3.js.map"
     ],
-    "path---argo-events": [
-      "path---argo-events-de87b2b5ce95fc00a9cf.js",
-      "path---argo-events-de87b2b5ce95fc00a9cf.js.map"
-    ],
     "path---docs-argo-cd-docs-operator-manual-ingress-html": [
       "path---docs-argo-cd-docs-operator-manual-ingress-html-39f549d2300f3e74000c.js",
       "path---docs-argo-cd-docs-operator-manual-ingress-html-39f549d2300f3e74000c.js.map"
@@ -220,6 +216,10 @@
       "path---docs-argo-cd-docs-developer-guide-index-html-d4678e101dfd85595284.js",
       "path---docs-argo-cd-docs-developer-guide-index-html-d4678e101dfd85595284.js.map"
     ],
+    "path---projects-argo-events": [
+      "path---projects-argo-events-a0e39f21c11f6a62c5ab.js",
+      "path---projects-argo-events-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "path---docs-argo-cd-util-helm-testdata-redis": [
       "path---docs-argo-cd-util-helm-testdata-redis-1e82b6af5a1c533f9e35.js",
       "path---docs-argo-cd-util-helm-testdata-redis-1e82b6af5a1c533f9e35.js.map"
@@ -305,8 +305,8 @@
       "path---docs-argo-cd-util-helm-testdata-redis-readme-html-1e82b6af5a1c533f9e35.js.map"
     ],
     "commons": [
-      "commons-621bcf890fc44b4a4d19.js",
-      "commons-621bcf890fc44b4a4d19.js.map"
+      "commons-60545d06d23b4bd00903.js",
+      "commons-60545d06d23b4bd00903.js.map"
     ],
     "path---docs-argo-cd-test-e-2-e-testdata-crd-creation": [
       "path---docs-argo-cd-test-e-2-e-testdata-crd-creation-f36659456e799350b061.js",
@@ -417,8 +417,8 @@
       "path---docs-argo-events-docs-gateways-artifact-html-ae598dbfc35950dffb7c.js.map"
     ],
     "app": [
-      "app-82fd7d94e4bd51795105.js",
-      "app-82fd7d94e4bd51795105.js.map"
+      "app-0e1631e79430552de0f4.js",
+      "app-0e1631e79430552de0f4.js.map"
     ],
     "path---docs-argo-cd-docs-developer-guide-site-html": [
       "path---docs-argo-cd-docs-developer-guide-site-html-019f9e29f67499d029ab.js",
@@ -427,10 +427,6 @@
     "path---docs-argo-cd-docs-user-guide-tracking-strategies-html": [
       "path---docs-argo-cd-docs-user-guide-tracking-strategies-html-d9e49424b926509b2da6.js",
       "path---docs-argo-cd-docs-user-guide-tracking-strategies-html-d9e49424b926509b2da6.js.map"
-    ],
-    "component---src-pages-argo-events-tsx": [
-      "component---src-pages-argo-events-tsx-ed432e73064fb9283864.js",
-      "component---src-pages-argo-events-tsx-ed432e73064fb9283864.js.map"
     ],
     "path---docs-argo-cd-docs-user-guide-private-repositories-html": [
       "path---docs-argo-cd-docs-user-guide-private-repositories-html-b136c409a3855859ee90.js",
@@ -472,9 +468,13 @@
       "path---docs-argo-cd-changelog-html-68fbdeca19de2ed16deb.js",
       "path---docs-argo-cd-changelog-html-68fbdeca19de2ed16deb.js.map"
     ],
+    "component---src-pages-projects-argo-events-tsx": [
+      "component---src-pages-projects-argo-events-tsx-a51bba7555e0e4cd031c.js",
+      "component---src-pages-projects-argo-events-tsx-a51bba7555e0e4cd031c.js.map"
+    ],
     "component---src-pages-projects-argo-cd-tsx": [
-      "component---src-pages-projects-argo-cd-tsx-753c6a6e368f2968cfd3.js",
-      "component---src-pages-projects-argo-cd-tsx-753c6a6e368f2968cfd3.js.map"
+      "component---src-pages-projects-argo-cd-tsx-2d541373235891e81c43.js",
+      "component---src-pages-projects-argo-cd-tsx-2d541373235891e81c43.js.map"
     ],
     "path---docs-argo-cd-docs-understand-the-basics-html": [
       "path---docs-argo-cd-docs-understand-the-basics-html-5b77eae5c661e10dfaed.js",

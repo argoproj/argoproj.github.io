@@ -106,8 +106,8 @@
 <url> <loc>https://argoproj.github.io/docs/argo-cd/test/e2e/testdata/networking/readme.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/docs/argo-cd/test/e2e/testdata/networking/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/docs/argo-cd/docs/user-guide/tracking_strategies.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://argoproj.github.io/argo-events/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/argo/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/projects/argo-cd/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://argoproj.github.io/projects/argo-events/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 </urlset>
