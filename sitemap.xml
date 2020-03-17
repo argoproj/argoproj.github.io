@@ -9,14 +9,14 @@
 <url> <loc>https://argoproj.github.io/docs/argo/configure-artifact-repository.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/docs/argo/cron-workflows.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/docs/argo/default-workflow-specs.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://argoproj.github.io/docs/argo/getting-started.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/docs/argo/managed-namespace.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://argoproj.github.io/docs/argo/getting-started.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/docs/argo/offloading-large-workflows.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/docs/argo/releasing.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://argoproj.github.io/docs/argo/rest-api.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/docs/argo/service-accounts.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://argoproj.github.io/docs/argo/variables.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://argoproj.github.io/docs/argo/rest-api.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/docs/argo/workflow-archive.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://argoproj.github.io/docs/argo/variables.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/docs/argo/workflow-executors.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/docs/argo/workflow-rbac.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/docs/argo/workflow-templates.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
