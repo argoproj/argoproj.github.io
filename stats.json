@@ -1,16 +1,24 @@
 {
   "assetsByChunkName": {
+    "path---docs-argo-cluster-workflow-templates-html": [
+      "path---docs-argo-cluster-workflow-templates-html-a3bc57bf8a54fea1b414.js",
+      "path---docs-argo-cluster-workflow-templates-html-a3bc57bf8a54fea1b414.js.map"
+    ],
     "path---docs-argo-contributing-html": [
-      "path---docs-argo-contributing-html-b234f6c12fb1dde3f1fa.js",
-      "path---docs-argo-contributing-html-b234f6c12fb1dde3f1fa.js.map"
+      "path---docs-argo-contributing-html-7a34cae03964847f24c7.js",
+      "path---docs-argo-contributing-html-7a34cae03964847f24c7.js.map"
     ],
     "path---docs-argo-configure-artifact-repository-html": [
-      "path---docs-argo-configure-artifact-repository-html-987c614bf5c1b83ff827.js",
-      "path---docs-argo-configure-artifact-repository-html-987c614bf5c1b83ff827.js.map"
+      "path---docs-argo-configure-artifact-repository-html-fb1534e2ec4258ad8bc0.js",
+      "path---docs-argo-configure-artifact-repository-html-fb1534e2ec4258ad8bc0.js.map"
+    ],
+    "path---docs-argo-links-html": [
+      "path---docs-argo-links-html-84ce0173df6ab4c3ebd2.js",
+      "path---docs-argo-links-html-84ce0173df6ab4c3ebd2.js.map"
     ],
     "path---docs-argo-examples": [
-      "path---docs-argo-examples-f1728b2e55f5340227fa.js",
-      "path---docs-argo-examples-f1728b2e55f5340227fa.js.map"
+      "path---docs-argo-examples-58ab2c22141eb26939f3.js",
+      "path---docs-argo-examples-58ab2c22141eb26939f3.js.map"
     ],
     "path---projects-argo-cd": [
       "path---projects-argo-cd-a0e39f21c11f6a62c5ab.js",
@@ -21,8 +29,8 @@
       "path---docs-argo-workflow-rbac-html-f42e7c0b70959125cf28.js.map"
     ],
     "path---docs-argo-readme-html": [
-      "path---docs-argo-readme-html-8b5595587743fff2077c.js",
-      "path---docs-argo-readme-html-8b5595587743fff2077c.js.map"
+      "path---docs-argo-readme-html-5fdf2d5660c40a79ae4f.js",
+      "path---docs-argo-readme-html-5fdf2d5660c40a79ae4f.js.map"
     ],
     "path---projects-argo": [
       "path---projects-argo-a0e39f21c11f6a62c5ab.js",
@@ -33,8 +41,12 @@
       "path---docs-argo-workflow-executors-html-8bc188d5faa96b840f13.js.map"
     ],
     "path---docs-argo": [
-      "path---docs-argo-8b5595587743fff2077c.js",
-      "path---docs-argo-8b5595587743fff2077c.js.map"
+      "path---docs-argo-5fdf2d5660c40a79ae4f.js",
+      "path---docs-argo-5fdf2d5660c40a79ae4f.js.map"
+    ],
+    "path---docs-argo-metrics-html": [
+      "path---docs-argo-metrics-html-b6cb3777048e6fac25aa.js",
+      "path---docs-argo-metrics-html-b6cb3777048e6fac25aa.js.map"
     ],
     "path---docs-argo-workflow-archive-html": [
       "path---docs-argo-workflow-archive-html-17ba16d99729af374a95.js",
@@ -52,6 +64,10 @@
       "path---docs-argo-offloading-large-workflows-html-c29c0ea540e680daedeb.js",
       "path---docs-argo-offloading-large-workflows-html-c29c0ea540e680daedeb.js.map"
     ],
+    "path---docs-argo-resource-duration-html": [
+      "path---docs-argo-resource-duration-html-975f9f73eb8cfc71fe14.js",
+      "path---docs-argo-resource-duration-html-975f9f73eb8cfc71fe14.js.map"
+    ],
     "path---docs-argo-cron-workflows-html": [
       "path---docs-argo-cron-workflows-html-718b16dee8bd239c8d90.js",
       "path---docs-argo-cron-workflows-html-718b16dee8bd239c8d90.js.map"
@@ -60,17 +76,25 @@
       "path---index-a0e39f21c11f6a62c5ab.js",
       "path---index-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "path---docs-argo-examples-rest-examples-html": [
+      "path---docs-argo-examples-rest-examples-html-8af118e01a95aaa87d52.js",
+      "path---docs-argo-examples-rest-examples-html-8af118e01a95aaa87d52.js.map"
+    ],
     "path---docs-argo-service-accounts-html": [
       "path---docs-argo-service-accounts-html-178c8f20a25314fd5c8d.js",
       "path---docs-argo-service-accounts-html-178c8f20a25314fd5c8d.js.map"
     ],
     "path---docs-argo-workflow-templates-html": [
-      "path---docs-argo-workflow-templates-html-acb88eed76537a98a15c.js",
-      "path---docs-argo-workflow-templates-html-acb88eed76537a98a15c.js.map"
+      "path---docs-argo-workflow-templates-html-71c3a351b68e070d74e3.js",
+      "path---docs-argo-workflow-templates-html-71c3a351b68e070d74e3.js.map"
+    ],
+    "path---docs-argo-workflow-controller-configmap-html": [
+      "path---docs-argo-workflow-controller-configmap-html-cf618c0803a27d87e432.js",
+      "path---docs-argo-workflow-controller-configmap-html-cf618c0803a27d87e432.js.map"
     ],
     "commons": [
-      "commons-944c0e855f543e59140f.js",
-      "commons-944c0e855f543e59140f.js.map"
+      "commons-5f7e3857f7ee78769eaa.js",
+      "commons-5f7e3857f7ee78769eaa.js.map"
     ],
     "component---src-pages-404-tsx": [
       "component---src-pages-404-tsx-c3f1179ef31e3033d235.js",
@@ -85,28 +109,32 @@
       "component---src-components-docs-page-tsx-478c4ad24640280b3070.js.map"
     ],
     "path---docs-argo-getting-started-html": [
-      "path---docs-argo-getting-started-html-87865078189c8c7569e4.js",
-      "path---docs-argo-getting-started-html-87865078189c8c7569e4.js.map"
+      "path---docs-argo-getting-started-html-5e9291bd8f727d539cbf.js",
+      "path---docs-argo-getting-started-html-5e9291bd8f727d539cbf.js.map"
+    ],
+    "path---docs-argo-core-concepts-html": [
+      "path---docs-argo-core-concepts-html-8879d52665fe2cedeafe.js",
+      "path---docs-argo-core-concepts-html-8879d52665fe2cedeafe.js.map"
     ],
     "component---src-pages-index-tsx": [
       "component---src-pages-index-tsx-b7030b0ce55232a078f5.js",
       "component---src-pages-index-tsx-b7030b0ce55232a078f5.js.map"
     ],
     "app": [
-      "app-916078a445e4d67dda81.js",
-      "app-916078a445e4d67dda81.js.map"
+      "app-ef628421823c376c4b12.js",
+      "app-ef628421823c376c4b12.js.map"
     ],
     "path---docs-argo-rest-api-html": [
       "path---docs-argo-rest-api-html-78a24f80c705f64a9d3b.js",
       "path---docs-argo-rest-api-html-78a24f80c705f64a9d3b.js.map"
     ],
     "path---docs-argo-default-workflow-specs-html": [
-      "path---docs-argo-default-workflow-specs-html-9d5d526f5842ab570142.js",
-      "path---docs-argo-default-workflow-specs-html-9d5d526f5842ab570142.js.map"
+      "path---docs-argo-default-workflow-specs-html-47d455656b4dfdf73f17.js",
+      "path---docs-argo-default-workflow-specs-html-47d455656b4dfdf73f17.js.map"
     ],
     "path---docs-argo-variables-html": [
-      "path---docs-argo-variables-html-73678c23c802989e9a79.js",
-      "path---docs-argo-variables-html-73678c23c802989e9a79.js.map"
+      "path---docs-argo-variables-html-0d084d25c6e5dd1e8e37.js",
+      "path---docs-argo-variables-html-0d084d25c6e5dd1e8e37.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
@@ -117,8 +145,12 @@
       "path---docs-argo-managed-namespace-html-e66b9cff3a2cb4ded36d.js.map"
     ],
     "path---docs-argo-examples-readme-html": [
-      "path---docs-argo-examples-readme-html-f1728b2e55f5340227fa.js",
-      "path---docs-argo-examples-readme-html-f1728b2e55f5340227fa.js.map"
+      "path---docs-argo-examples-readme-html-58ab2c22141eb26939f3.js",
+      "path---docs-argo-examples-readme-html-58ab2c22141eb26939f3.js.map"
+    ],
+    "path---docs-argo-fields-html": [
+      "path---docs-argo-fields-html-9c8ab1ce3524f6927678.js",
+      "path---docs-argo-fields-html-9c8ab1ce3524f6927678.js.map"
     ],
     "path---docs-argo-releasing-html": [
       "path---docs-argo-releasing-html-bf293c20b60bfc633dd8.js",
