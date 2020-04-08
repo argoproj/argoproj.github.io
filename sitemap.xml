@@ -8,8 +8,8 @@
 <url> <loc>https://argoproj.github.io/docs/argo/cli.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/docs/argo/cluster-workflow-templates.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/docs/argo/core-concepts.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://argoproj.github.io/docs/argo/cron-workflows.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/docs/argo/default-workflow-specs.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://argoproj.github.io/docs/argo/cron-workflows.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/docs/argo/getting-started.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/docs/argo/links.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/docs/argo/managed-namespace.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
@@ -24,9 +24,9 @@
 <url> <loc>https://argoproj.github.io/docs/argo/workflow-executors.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/docs/argo/workflow-rbac.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/docs/argo/workflow-templates.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
-<url> <loc>https://argoproj.github.io/docs/argo/examples/rest-examples.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/docs/argo/configure-artifact-repository.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/docs/argo/metrics.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
+<url> <loc>https://argoproj.github.io/docs/argo/examples/rest-examples.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/docs/argo/examples/readme.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/docs/argo/examples/</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
 <url> <loc>https://argoproj.github.io/docs/argo/fields.html</loc> <changefreq>daily</changefreq> <priority>0.7</priority> </url>
