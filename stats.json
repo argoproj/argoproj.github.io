@@ -21,8 +21,8 @@
       "path---index-a0e39f21c11f6a62c5ab.js.map"
     ],
     "commons": [
-      "commons-08abe99e86f61c07ecf1.js",
-      "commons-08abe99e86f61c07ecf1.js.map"
+      "commons-bf7bcdbda5ea29f6549e.js",
+      "commons-bf7bcdbda5ea29f6549e.js.map"
     ],
     "component---src-pages-404-tsx": [
       "component---src-pages-404-tsx-c3f1179ef31e3033d235.js",
@@ -32,13 +32,21 @@
       "path---404-html-a0e39f21c11f6a62c5ab.js",
       "path---404-html-a0e39f21c11f6a62c5ab.js.map"
     ],
+    "component---src-pages-kubecon-2020-na-index-tsx": [
+      "component---src-pages-kubecon-2020-na-index-tsx-69d9b3787cfec5aac3e9.js",
+      "component---src-pages-kubecon-2020-na-index-tsx-69d9b3787cfec5aac3e9.js.map"
+    ],
+    "path---kubecon-2020-na": [
+      "path---kubecon-2020-na-a0e39f21c11f6a62c5ab.js",
+      "path---kubecon-2020-na-a0e39f21c11f6a62c5ab.js.map"
+    ],
     "component---src-pages-index-tsx": [
       "component---src-pages-index-tsx-b7030b0ce55232a078f5.js",
       "component---src-pages-index-tsx-b7030b0ce55232a078f5.js.map"
     ],
     "app": [
-      "app-50a9e3aa429e0db9800a.js",
-      "app-50a9e3aa429e0db9800a.js.map"
+      "app-31475431599feee613c1.js",
+      "app-31475431599feee613c1.js.map"
     ],
     "path---404": [
       "path---404-a0e39f21c11f6a62c5ab.js",
