@@ -1,2 +1,0 @@
-webpackJsonp([0xaf1b6a97b6d3],{548:function(o,t){o.exports={pathContext:{docHtml:'<h1>API Docs</h1>\n<p>You can find Swagger docs but setting the path <code>/swagger-ui</code> to your Argo CD UI\'s. E.g. <a href="http://localhost:8080/swagger-ui">http://localhost:8080/swagger-ui</a>. </p>',docPath:"argo-cd/docs/developer-guide/api-docs",proj:"argo-cd"}}}});
-//# sourceMappingURL=path---docs-argo-cd-docs-developer-guide-api-docs-html-3f845e57d2cdb570493c.js.map

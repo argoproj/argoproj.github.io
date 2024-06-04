@@ -1,2 +1,0 @@
-webpackJsonp([0xda6dae197ff6],{213:function(e,a,t){"use strict";Object.defineProperty(a,"__esModule",{value:!0});var r=t(3),n=t(56);a.default=function(e){var a=e.data;return r.createElement(n.Main,null,r.createElement(n.Project,{proj:"argo-events",animationType:"solar-system",markdownHtml:a.allMarkdownRemark.edges[0].node.html,docsLink:"/docs/argo-events/readme.html"}))},a.query="** extracted graphql fragment **"}});
-//# sourceMappingURL=component---src-pages-argo-events-tsx-ed432e73064fb9283864.js.map
