@@ -1,10 +1,4 @@
 /*!
-	Copyright (c) 2018 Jed Watson.
-	Licensed under the MIT License (MIT), see
-	http://jedwatson.github.io/classnames
-*/
-
-/*!
  * DrawSVGPlugin 3.7.0
  * https://greensock.com
  *
